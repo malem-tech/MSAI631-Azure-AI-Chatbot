@@ -1,4 +1,17 @@
-﻿# EchoBot
+﻿# MSAI 631 - Integrated Chatbot with Azure AI Language
+
+This project was created for the MSAI 631 Artificial Intelligence for
+Human-Computer Interaction course.
+
+The project is based on the traditional chatbot developed for the previous
+Prototype Simple Traditional Chatbot assignment, which originated from
+Microsoft's BotBuilder Python EchoBot sample.
+
+The project was copied so that Azure AI Language sentiment analysis could be
+integrated without modifying the original traditional chatbot submission.
+
+
+# EchoBot
 
 Bot Framework v4 echo bot sample.
 

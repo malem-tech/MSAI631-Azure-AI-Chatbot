@@ -15,3 +15,7 @@ class DefaultConfig:
     APP_PASSWORD = os.environ.get("MicrosoftAppPassword", "")
     APP_TYPE = os.environ.get("MicrosoftAppType", "MultiTenant")
     APP_TENANTID = os.environ.get("MicrosoftAppTenantId", "")
+
+    # Azure AI Language configuration
+    ENDPOINT_URI = os.environ.get("MicrosoftAIServiceEndpoint", "")
+    API_KEY = os.environ.get("MicrosoftAPIKey", "")
